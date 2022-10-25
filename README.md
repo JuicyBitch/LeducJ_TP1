@@ -1,2 +1,2 @@
-# LeducJ_TP1
+# LeducJ_TP_Platformer
 Platformer
